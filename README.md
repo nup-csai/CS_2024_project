@@ -33,5 +33,5 @@ Specify which branch will store the latest stable version of the application
 Describe the criteria by which the success of the project can be determined
 (this will be updated in the future)
 
-* 
+* Criteria 1
 
